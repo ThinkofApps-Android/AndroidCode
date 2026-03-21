@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="24dp">
+
+    <!-- Header row: Score | Ring | Q# -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingBottom="24dp">
+
+        <!-- Score -->
+        <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SCORE"
+                android:textSize="9sp"
+                android:textColor="@color/muted"
+                android:letterSpacing="0.15"
+                android:fontFamily="monospace" />
+            <TextView
+                android:id="@+id/tv_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/green"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+
+        <Space android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+
+        <!-- Timer Ring -->
+        <FrameLayout
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:gravity="center">
+
+            <com.speedmath.app.TimerRingView
+                android:id="@+id/timer_ring"
+                android:layout_width="80dp"
+                android:layout_height="80dp" />
+
+            <TextView
+                android:id="@+id/tv_timer_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="1:00"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:fontFamily="monospace" />
+        </FrameLayout>
+
+        <Space android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+
+        <!-- Q # -->
+        <LinearLayout
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Q #"
+                android:textSize="9sp"
+                android:textColor="@color/muted"
+                android:letterSpacing="0.15"
+                android:fontFamily="monospace" />
+            <TextView
+                android:id="@+id/tv_qnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Question Card -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="20dp"
+            app:cardBackgroundColor="@color/surface2"
+            app:cardElevation="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="32dp">
+
+                <TextView
+                    android:id="@+id/tv_question_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUESTION 1"
+                    android:textSize="10sp"
+                    android:textColor="@color/muted"
+                    android:letterSpacing="0.15"
+                    android:fontFamily="monospace"
+                    android:paddingBottom="8dp" />
+
+                <TextView
+                    android:id="@+id/tv_question"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="5 + 3 = ?"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:fontFamily="monospace" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Feedback overlay -->
+        <View
+            android:id="@+id/feedback_overlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:alpha="0" />
+    </FrameLayout>
+
+    <!-- Answer Row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingBottom="20dp">
+
+        <EditText
+            android:id="@+id/et_answer"
+            android:layout_width="0dp"
+            android:layout_height="58dp"
+            android:layout_weight="1"
+            android:layout_marginEnd="10dp"
+            android:hint="?"
+            android:textColorHint="@color/muted"
+            android:textColor="@color/text_primary"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:background="@drawable/bg_input"
+            android:inputType="number"
+            android:imeOptions="actionDone"
+            android:paddingHorizontal="16dp" />
+
+        <ImageButton
+            android:id="@+id/btn_submit"
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:src="@android:drawable/ic_media_next"
+            android:background="@drawable/bg_btn_start"
+            android:tint="@android:color/white"
+            android:scaleType="centerInside"
+            android:padding="14dp"
+            android:contentDescription="Submit" />
+    </LinearLayout>
+
+    <!-- Streak Dots -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <View android:id="@+id/dot0" android:layout_width="10dp" android:layout_height="10dp"
+            android:layout_marginHorizontal="4dp" android:background="@drawable/dot_neutral"/>
+        <View android:id="@+id/dot1" android:layout_width="10dp" android:layout_height="10dp"
+            android:layout_marginHorizontal="4dp" android:background="@drawable/dot_neutral"/>
+        <View android:id="@+id/dot2" android:layout_width="10dp" android:layout_height="10dp"
+            android:layout_marginHorizontal="4dp" android:background="@drawable/dot_neutral"/>
+        <View android:id="@+id/dot3" android:layout_width="10dp" android:layout_height="10dp"
+            android:layout_marginHorizontal="4dp" android:background="@drawable/dot_neutral"/>
+        <View android:id="@+id/dot4" android:layout_width="10dp" android:layout_height="10dp"
+            android:layout_marginHorizontal="4dp" android:background="@drawable/dot_neutral"/>
+    </LinearLayout>
+
+</LinearLayout>

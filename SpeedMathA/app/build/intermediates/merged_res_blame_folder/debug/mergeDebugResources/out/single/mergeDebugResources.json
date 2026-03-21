@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_start.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_btn_start.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/layout_fragment_setup.xml.flat",
+        "source": "com.speedmath.app-main-33:/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_selected.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_btn_selected.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_dot_correct.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/dot_correct.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/layout_fragment_results.xml.flat",
+        "source": "com.speedmath.app-main-33:/layout/fragment_results.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/layout_fragment_game.xml.flat",
+        "source": "com.speedmath.app-main-33:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.speedmath.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_timer_display.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_timer_display.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_dot_neutral.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/dot_neutral.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_normal.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_btn_normal.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_bar_track.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_bar_track.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_input.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_stat_box.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_stat_box.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-33:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_dot_wrong.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/dot_wrong.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_bar_fill.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_bar_fill.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_play_again.xml.flat",
+        "source": "com.speedmath.app-main-33:/drawable/bg_btn_play_again.xml"
+    }
+]

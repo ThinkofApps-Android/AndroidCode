@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#7C3AED</color>
+    <color name="accent2">#A78BFA</color>
+    <color name="amber">#F59E0B</color>
+    <color name="bg">#0A0A0F</color>
+    <color name="border">#2A2A3D</color>
+    <color name="green">#10B981</color>
+    <color name="muted">#64748B</color>
+    <color name="red">#EF4444</color>
+    <color name="sm_accent">@color/accent</color>
+    <color name="sm_accent2">@color/accent2</color>
+    <color name="sm_amber">@color/amber</color>
+    <color name="sm_background">@color/bg</color>
+    <color name="sm_border">@color/border</color>
+    <color name="sm_green">@color/green</color>
+    <color name="sm_muted">@color/muted</color>
+    <color name="sm_red">@color/red</color>
+    <color name="sm_surface">@color/surface</color>
+    <color name="sm_surface2">@color/surface2</color>
+    <color name="sm_text">@color/text_primary</color>
+    <color name="surface">#111118</color>
+    <color name="surface2">#1A1A26</color>
+    <color name="text_primary">#E2E8F0</color>
+    <string name="app_name">Speed Math</string>
+    <style name="OpButton" parent="Widget.Material3.Button.TonalButton">
+        <item name="android:layout_height">72dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+    <style name="Theme.SpeedMath" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

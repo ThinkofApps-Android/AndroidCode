@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.speedmath.app-mergeDebugResources-29:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/avi/.gradle/caches/8.13/transforms/2d707cc41f8bd756b60711249dc69b8e/transformed/appcompat-1.6.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

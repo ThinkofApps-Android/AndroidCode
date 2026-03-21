@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.speedmath.app-mergeDebugResources-30:/layout/fragment_game.xml",
+        "source": "com.speedmath.app-main-33:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.speedmath.app-mergeDebugResources-30:/layout/fragment_setup.xml",
+        "source": "com.speedmath.app-main-33:/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "com.speedmath.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.speedmath.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.speedmath.app-mergeDebugResources-30:/layout/fragment_results.xml",
+        "source": "com.speedmath.app-main-33:/layout/fragment_results.xml"
+    }
+]

@@ -1,0 +1,35 @@
+com.speedmath.app-cardview-1.0.0-0 /Users/avi/.gradle/caches/8.13/transforms/18cf75bee516970d5093e0917db750de/transformed/cardview-1.0.0/res
+com.speedmath.app-coordinatorlayout-1.1.0-1 /Users/avi/.gradle/caches/8.13/transforms/1e3d552ee5c8149097f4a8b7f2cc4820/transformed/coordinatorlayout-1.1.0/res
+com.speedmath.app-jetified-appcompat-resources-1.6.1-2 /Users/avi/.gradle/caches/8.13/transforms/1ece5f7eeb8cf994dc8be020666084c6/transformed/jetified-appcompat-resources-1.6.1/res
+com.speedmath.app-jetified-lifecycle-process-2.6.1-3 /Users/avi/.gradle/caches/8.13/transforms/21d9b3306333384da1977bc3e86dfbb3/transformed/jetified-lifecycle-process-2.6.1/res
+com.speedmath.app-appcompat-1.6.1-4 /Users/avi/.gradle/caches/8.13/transforms/2d707cc41f8bd756b60711249dc69b8e/transformed/appcompat-1.6.1/res
+com.speedmath.app-transition-1.2.0-5 /Users/avi/.gradle/caches/8.13/transforms/32a7822cd80eab86aa963d7c61944e2e/transformed/transition-1.2.0/res
+com.speedmath.app-jetified-viewpager2-1.0.0-6 /Users/avi/.gradle/caches/8.13/transforms/394f3ffe67ca16c45b46d6847e42c433/transformed/jetified-viewpager2-1.0.0/res
+com.speedmath.app-lifecycle-livedata-core-2.6.1-7 /Users/avi/.gradle/caches/8.13/transforms/3f4eddaddbb02b152f3c3924a8981284/transformed/lifecycle-livedata-core-2.6.1/res
+com.speedmath.app-jetified-startup-runtime-1.1.1-8 /Users/avi/.gradle/caches/8.13/transforms/41fd53f245d48154b1c254e1ff498e7d/transformed/jetified-startup-runtime-1.1.1/res
+com.speedmath.app-jetified-annotation-experimental-1.3.0-9 /Users/avi/.gradle/caches/8.13/transforms/46aebab7cbef1d036cf3abdb6c70b991/transformed/jetified-annotation-experimental-1.3.0/res
+com.speedmath.app-jetified-profileinstaller-1.3.0-10 /Users/avi/.gradle/caches/8.13/transforms/56e21b9a0257d31ee03683c09f5ca8d8/transformed/jetified-profileinstaller-1.3.0/res
+com.speedmath.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-11 /Users/avi/.gradle/caches/8.13/transforms/5fba7624e5e5be4b8dd112e7f41ba47f/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.speedmath.app-core-1.9.0-12 /Users/avi/.gradle/caches/8.13/transforms/66b90aed0d36d8b21e608393cd3a7f77/transformed/core-1.9.0/res
+com.speedmath.app-constraintlayout-2.1.4-13 /Users/avi/.gradle/caches/8.13/transforms/6864f981e1a288d9b8d7ff0447974835/transformed/constraintlayout-2.1.4/res
+com.speedmath.app-fragment-1.3.6-14 /Users/avi/.gradle/caches/8.13/transforms/6b68dac75a2a7daf2656ccaddd286ffb/transformed/fragment-1.3.6/res
+com.speedmath.app-lifecycle-runtime-2.6.1-15 /Users/avi/.gradle/caches/8.13/transforms/7710acb0f0f7b133f3bf49ecfbb5ba14/transformed/lifecycle-runtime-2.6.1/res
+com.speedmath.app-lifecycle-viewmodel-2.6.1-16 /Users/avi/.gradle/caches/8.13/transforms/7f3b3bd31ef193d812c83ee15569a49e/transformed/lifecycle-viewmodel-2.6.1/res
+com.speedmath.app-jetified-savedstate-1.2.1-17 /Users/avi/.gradle/caches/8.13/transforms/89ee3f251b16610a9af74c2c0b6dfa09/transformed/jetified-savedstate-1.2.1/res
+com.speedmath.app-material-1.11.0-18 /Users/avi/.gradle/caches/8.13/transforms/8c7b0cd1afa580ee8c444aa18b0ea7c8/transformed/material-1.11.0/res
+com.speedmath.app-jetified-activity-1.8.0-19 /Users/avi/.gradle/caches/8.13/transforms/900cbc8ca4ddb652b4b74911751692f1/transformed/jetified-activity-1.8.0/res
+com.speedmath.app-recyclerview-1.1.0-20 /Users/avi/.gradle/caches/8.13/transforms/932b402256ee5bbf0a890a7a7162e9da/transformed/recyclerview-1.1.0/res
+com.speedmath.app-lifecycle-livedata-2.6.1-21 /Users/avi/.gradle/caches/8.13/transforms/b5ca219a70265a3095559658c413e92a/transformed/lifecycle-livedata-2.6.1/res
+com.speedmath.app-jetified-core-ktx-1.9.0-22 /Users/avi/.gradle/caches/8.13/transforms/b6eccf638504ab089ec7d4a09612eb6f/transformed/jetified-core-ktx-1.9.0/res
+com.speedmath.app-jetified-emoji2-1.2.0-23 /Users/avi/.gradle/caches/8.13/transforms/d09101860a4c0c5a6526944eb6d326f4/transformed/jetified-emoji2-1.2.0/res
+com.speedmath.app-drawerlayout-1.1.1-24 /Users/avi/.gradle/caches/8.13/transforms/d3888f0be19854c2c513ae846eec8787/transformed/drawerlayout-1.1.1/res
+com.speedmath.app-core-runtime-2.2.0-25 /Users/avi/.gradle/caches/8.13/transforms/e36d62edd86fbe94976971b7fbded7e0/transformed/core-runtime-2.2.0/res
+com.speedmath.app-jetified-emoji2-views-helper-1.2.0-26 /Users/avi/.gradle/caches/8.13/transforms/e9db1d41c07d6741b23dd6c726bc3222/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.speedmath.app-pngs-27 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/generated/res/pngs/debug
+com.speedmath.app-resValues-28 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/generated/res/resValues/debug
+com.speedmath.app-updated_navigation_xml-29 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/generated/updated_navigation_xml/debug
+com.speedmath.app-packageDebugResources-30 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.speedmath.app-packageDebugResources-31 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.speedmath.app-debug-32 /Users/avi/Downloads/SpeedMathAndroid 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.speedmath.app-debug-33 /Users/avi/Downloads/SpeedMathAndroid 2/app/src/debug/res
+com.speedmath.app-main-34 /Users/avi/Downloads/SpeedMathAndroid 2/app/src/main/res

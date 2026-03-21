@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="20dp"
+        android:paddingBottom="40dp">
+
+        <!-- Logo -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:paddingTop="56dp"
+            android:paddingBottom="32dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Speed Math"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:textColor="@color/accent2"
+                android:fontFamily="sans-serif-medium" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CHALLENGE YOUR MENTAL ARITHMETIC"
+                android:textSize="9sp"
+                android:textColor="@color/muted"
+                android:letterSpacing="0.15"
+                android:paddingTop="4dp"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+
+        <!-- Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="4dp"
+            app:cardCornerRadius="20dp"
+            app:cardBackgroundColor="@color/surface"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="24dp">
+
+                <!-- Timer Section -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="⏱ SET TIMER"
+                    android:textSize="10sp"
+                    android:textColor="@color/accent2"
+                    android:letterSpacing="0.15"
+                    android:fontFamily="monospace"
+                    android:paddingBottom="10dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="20dp">
+
+                    <TextView
+                        android:id="@+id/tv_timer_display"
+                        android:layout_width="88dp"
+                        android:layout_height="wrap_content"
+                        android:text="1:00"
+                        android:textSize="26sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="monospace"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:background="@drawable/bg_timer_display" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingStart="14dp">
+
+                        <SeekBar
+                            android:id="@+id/seekbar_timer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:max="7"
+                            android:progress="3"
+                            android:progressTint="@color/accent"
+                            android:thumbTint="@color/accent" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                                android:layout_weight="1" android:text="15s"
+                                android:textSize="8sp" android:textColor="@color/muted" android:fontFamily="monospace"/>
+                            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                                android:layout_weight="1" android:text="30s"
+                                android:textSize="8sp" android:textColor="@color/muted" android:gravity="center" android:fontFamily="monospace"/>
+                            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                                android:layout_weight="1" android:text="1m"
+                                android:textSize="8sp" android:textColor="@color/muted" android:gravity="center" android:fontFamily="monospace"/>
+                            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                                android:layout_weight="1" android:text="1m30"
+                                android:textSize="8sp" android:textColor="@color/muted" android:gravity="center" android:fontFamily="monospace"/>
+                            <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                                android:layout_weight="1" android:text="2m"
+                                android:textSize="8sp" android:textColor="@color/muted" android:gravity="end" android:fontFamily="monospace"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View android:layout_width="match_parent" android:layout_height="1dp"
+                    android:background="@color/border" android:layout_marginBottom="20dp"/>
+
+                <!-- Operation Section -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="⊕ OPERATION"
+                    android:textSize="10sp"
+                    android:textColor="@color/accent2"
+                    android:letterSpacing="0.15"
+                    android:fontFamily="monospace"
+                    android:paddingBottom="10dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingBottom="20dp">
+
+                    <Button
+                        android:id="@+id/btn_op_add"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="+\nAdd" />
+
+                    <View android:layout_width="8dp" android:layout_height="1dp"/>
+
+                    <Button
+                        android:id="@+id/btn_op_sub"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="−\nSub" />
+
+                    <View android:layout_width="8dp" android:layout_height="1dp"/>
+
+                    <Button
+                        android:id="@+id/btn_op_mul"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="×\nMul" />
+
+                    <View android:layout_width="8dp" android:layout_height="1dp"/>
+
+                    <Button
+                        android:id="@+id/btn_op_div"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="÷\nDiv" />
+                </LinearLayout>
+
+                <View android:layout_width="match_parent" android:layout_height="1dp"
+                    android:background="@color/border" android:layout_marginBottom="20dp"/>
+
+                <!-- Difficulty Section -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="◈ DIFFICULTY"
+                    android:textSize="10sp"
+                    android:textColor="@color/accent2"
+                    android:letterSpacing="0.15"
+                    android:fontFamily="monospace"
+                    android:paddingBottom="10dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingBottom="24dp">
+
+                    <Button
+                        android:id="@+id/btn_diff_easy"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="Easy\n1–10" />
+
+                    <View android:layout_width="8dp" android:layout_height="1dp"/>
+
+                    <Button
+                        android:id="@+id/btn_diff_medium"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="Medium\n1–25" />
+
+                    <View android:layout_width="8dp" android:layout_height="1dp"/>
+
+                    <Button
+                        android:id="@+id/btn_diff_hard"
+                        style="@style/OpButton"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:text="Hard\n1–99" />
+                </LinearLayout>
+
+                <!-- Start Button -->
+                <Button
+                    android:id="@+id/btn_start"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:text="START SESSION →"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08"
+                    android:background="@drawable/bg_btn_start"
+                    android:elevation="4dp" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>
