@@ -12,6 +12,12 @@
     <color name="text_primary">#E2E8F0</color>
     <color name="muted">#64748B</color>
 
+    <!-- Splash screen -->
+    <color name="splash_orange">#F2A06B</color>
+
+    <!-- Launcher icon background (matches dark icon art edges) -->
+    <color name="ic_launcher_bg">#221B3F</color>
+
     <!-- Aliases if needed -->
     <color name="sm_background">@color/bg</color>
     <color name="sm_surface">@color/surface</color>

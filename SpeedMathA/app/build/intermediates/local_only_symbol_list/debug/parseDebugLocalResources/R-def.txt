@@ -6,6 +6,7 @@ color amber
 color bg
 color border
 color green
+color ic_launcher_bg
 color muted
 color red
 color sm_accent
@@ -19,6 +20,7 @@ color sm_red
 color sm_surface
 color sm_surface2
 color sm_text
+color splash_orange
 color surface
 color surface2
 color text_primary
@@ -34,8 +36,10 @@ drawable bg_timer_display
 drawable dot_correct
 drawable dot_neutral
 drawable dot_wrong
+drawable ic_launcher_art
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable think_of_apps_branding
 id accuracy_bar_container
 id accuracy_bar_fill
 id btn_diff_easy
@@ -79,3 +83,4 @@ mipmap ic_launcher_round
 string app_name
 style OpButton
 style Theme.SpeedMath
+style Theme.SpeedMath.Splash

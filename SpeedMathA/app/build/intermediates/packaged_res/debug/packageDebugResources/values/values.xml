@@ -6,6 +6,7 @@
     <color name="bg">#0A0A0F</color>
     <color name="border">#2A2A3D</color>
     <color name="green">#10B981</color>
+    <color name="ic_launcher_bg">#221B3F</color>
     <color name="muted">#64748B</color>
     <color name="red">#EF4444</color>
     <color name="sm_accent">@color/accent</color>
@@ -19,6 +20,7 @@
     <color name="sm_surface">@color/surface</color>
     <color name="sm_surface2">@color/surface2</color>
     <color name="sm_text">@color/text_primary</color>
+    <color name="splash_orange">#F2A06B</color>
     <color name="surface">#111118</color>
     <color name="surface2">#1A1A26</color>
     <color name="text_primary">#E2E8F0</color>
@@ -36,5 +38,9 @@
         <item name="android:statusBarColor">@color/bg</item>
         <item name="android:navigationBarColor">@color/bg</item>
         <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.SpeedMath.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_orange</item>
+        <item name="postSplashScreenTheme">@style/Theme.SpeedMath</item>
     </style>
 </resources>

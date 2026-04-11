@@ -152,6 +152,11 @@ class GameViewModel : ViewModel() {
         _state.update { it.copy(screen = Screen.SETUP) }
     }
 
+    fun showResults() {
+        timerJob?.cancel()
+        _state.update { it.copy(screen = Screen.RESULTS) }
+    }
+
     // ── Internals ──────────────────────────────────────────────────────────────
 
     private fun nextQuestion() {

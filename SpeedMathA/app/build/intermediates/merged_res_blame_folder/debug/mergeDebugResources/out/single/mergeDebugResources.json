@@ -1,114 +1,174 @@
 [
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-mdpi/ic_launcher.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-mdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xxhdpi/ic_launcher_round.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_start.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_btn_start.xml"
+        "merged": "com.speedmath.app-debug-61:/drawable-nodpi_ic_launcher_art.jpg.flat",
+        "source": "com.speedmath.app-main-63:/drawable-nodpi/ic_launcher_art.jpg"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/layout_fragment_setup.xml.flat",
-        "source": "com.speedmath.app-main-33:/layout/fragment_setup.xml"
+        "merged": "com.speedmath.app-debug-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.speedmath.app-main-63:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_selected.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_btn_selected.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_dot_correct.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/dot_correct.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_dot_correct.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/dot_correct.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_btn_start.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_btn_start.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/layout_fragment_results.xml.flat",
-        "source": "com.speedmath.app-main-33:/layout/fragment_results.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-hdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/layout_fragment_game.xml.flat",
-        "source": "com.speedmath.app-main-33:/layout/fragment_game.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_btn_play_again.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_btn_play_again.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-hdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xxxhdpi_ic_launcher.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xxxhdpi/ic_launcher.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-mdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "com.speedmath.app-main-33:/layout/activity_main.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xhdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-hdpi_ic_launcher_round.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-hdpi/ic_launcher_round.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/layout_fragment_results.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/layout/fragment_results.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-hdpi_ic_launcher.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/layout_fragment_setup.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/layout/fragment_setup.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xhdpi_ic_launcher_round.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xhdpi/ic_launcher_round.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/layout_fragment_game.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/layout/fragment_game.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_timer_display.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_timer_display.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_timer_display.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_timer_display.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_dot_neutral.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/dot_neutral.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xxxhdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_normal.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_btn_normal.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_dot_wrong.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/dot_wrong.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_bar_track.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_bar_track.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-hdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-mdpi_ic_launcher_round.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-mdpi/ic_launcher_round.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_input.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_input.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_input.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_input.xml"
+        "merged": "com.speedmath.app-debug-61:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_stat_box.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_stat_box.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_ic_splash_logo.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/ic_splash_logo.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xhdpi_ic_launcher.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xhdpi/ic_launcher.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_btn_normal.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_btn_normal.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/mipmap-xxhdpi_ic_launcher.xml.flat",
-        "source": "com.speedmath.app-main-33:/mipmap-xxhdpi/ic_launcher.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_btn_selected.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_btn_selected.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_dot_wrong.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/dot_wrong.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_bar_fill.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_bar_fill.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-mdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "com.speedmath.app-debug-31:/drawable_bg_btn_play_again.xml.flat",
-        "source": "com.speedmath.app-main-33:/drawable/bg_btn_play_again.xml"
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_think_of_apps_branding.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/think_of_apps_branding.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_bar_track.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_bar_track.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_dot_neutral.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/dot_neutral.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_bar_fill.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_bar_fill.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-61:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-61:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_bg_stat_box.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/bg_stat_box.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/layout_activity_main.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/drawable-nodpi_think_of_apps_branding.png.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/drawable-nodpi/think_of_apps_branding.png"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.speedmath.app-debug-61:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.speedmath.app-main-63:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-debug-61:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/Users/avi/.gradle/daemon/9.3.1/com.speedmath.app-main-63:/mipmap-xhdpi/ic_launcher.xml"
     }
 ]

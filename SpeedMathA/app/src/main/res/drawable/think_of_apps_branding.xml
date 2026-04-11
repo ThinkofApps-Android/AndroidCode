@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="280dp"
+    android:height="80dp"
+    android:viewportWidth="280"
+    android:viewportHeight="80">
+    <!-- Placeholder for branding logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,30 L260,30 L260,50 L20,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,20 L60,20 L60,60 L40,60 Z"/>
+</vector>

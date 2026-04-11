@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.speedmath.app-mergeDebugResources-29:/values-v22/values-v22.xml",
+            "outputFile": "com.speedmath.app-mergeDebugResources-59:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/avi/.gradle/caches/8.13/transforms/2d707cc41f8bd756b60711249dc69b8e/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
+                    "source": "/Users/avi/.gradle/caches/9.3.1/transforms/7f7dd4f3bda44be86681fe77ef26348d/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

@@ -7,6 +7,11 @@
         <item name="android:windowLightStatusBar">false</item>
     </style>
 
+    <style name="Theme.SpeedMath.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_orange</item>
+        <item name="postSplashScreenTheme">@style/Theme.SpeedMath</item>
+    </style>
+
     <style name="OpButton" parent="Widget.Material3.Button.TonalButton">
         <item name="android:layout_height">72dp</item>
         <item name="android:textSize">14sp</item>
